@@ -1,10 +1,6 @@
 # Chrishtmas_Sales_An_-Trends_Dashboard
 This is a Dashboard Regarding Christmas Sales And Trends...
 
-
-DASHBOARD
-![image](https://github.com/user-attachments/assets/a41c339d-9560-4b4c-b459-8d81cf4b67b3)
-
 # Christmas Sales and Trends Dashboard
 
 ## Project Description
@@ -20,5 +16,6 @@ To set up and run the project locally, follow these steps:
    ```bash
    git clone https://github.com/your-username/christmas-sales-dashboard.git
 
-
+##DASHBOARD
+![image](https://github.com/user-attachments/assets/a41c339d-9560-4b4c-b459-8d81cf4b67b3)
 
